@@ -3,7 +3,7 @@
 # N3ttrace
 
 # Linux network watcher using only /proc + shell/coreutils.
-# Displays a live, htop-like table (top 10 by risk) and logs the same table to ./net-apt-watch.log.txt
+# Displays a live, htop-like table (top 10 by risk) and logs the same table to ./n3ttrace.log.txt
 #
 # What this tries to implement (within "bash + /proc" reality):
 # - Connection lifetime histogram (tracks per-socket birth time).
